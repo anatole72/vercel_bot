@@ -1,0 +1,8 @@
+{
+  "name": "telegram-book-bot",
+  "version": "1.0.0",
+  "description": "Telegram book bot on Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
